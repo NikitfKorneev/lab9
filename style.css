@@ -1,0 +1,15 @@
+header {
+    width: 100%;
+    display: flex;
+    position: fixed;
+    top: 0;
+    height: 15%;
+    background: #ffffff;
+}
+
+.h {
+    margin-left: 20px;
+    font-size: 20px;
+    color: #bf1111;
+}
+
